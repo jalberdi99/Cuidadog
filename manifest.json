@@ -22,7 +22,7 @@
   
   "icons": [
     {
-      "src": "./imagenes/iconoCuidadog.png",
+      "src": "./imagenes/logotipoCuidadogAPP.png",
       "sizes": "512x512",
       "type": "imagenes/png",
       "_comment_purpose": "Define cómo el móvil puede recortar el icono: 'any' lo muestra normal y 'maskable' permite que Android lo adapte a formas circulares o cuadradas sin romper el diseño.",
